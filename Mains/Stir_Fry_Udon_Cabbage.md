@@ -1,6 +1,6 @@
 # Stir-Fry Udon with Cabbage and Pork
 
-An all time banger
+An all time banger.  Based on this [Bon Appetit recipe](https://www.bonappetit.com/recipe/stir-fried-udon-with-pork)
 
 ## Ingredients
 
